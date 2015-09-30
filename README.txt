@@ -1,0 +1,3 @@
+Rec-a-Movie is a Java-based web application developed to recommend movies to the users based on the ratings provided by them for the movies watched by them already. Recommendation is done by using collaborative filtering, an approach by which similarity between entities can be computed.
+
+Java is used as back-end for processing the data, whereas Servlets are used to render the information to the user in form of html pages. MySQL database by means of Xampp is used to store information about movies and users, which is accessed by the Java code.
